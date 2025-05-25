@@ -1,6 +1,6 @@
 # Node.js Project
 
-This project is an implementation of an MCP (Microservice Context Protocol) server. Its primary function is to allow browsing and reading files within a specified directory.
+This project is an implementation of an MCP (Model Context Protocol) server. Its primary function is to allow browsing and reading files within a specified directory.
 
 ## Getting Started
 
