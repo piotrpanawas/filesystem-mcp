@@ -1,0 +1,17 @@
+{
+  "name": "webinar-02-mcp",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js arg1",
+    "test": "npx @modelcontextprotocol/inspector node server.js /example/path"
+  },
+  "keywords": [],
+  "author": "Piotr Panawas",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.25.28"
+  }
+}
